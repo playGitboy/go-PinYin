@@ -2,14 +2,11 @@
 
 [![GoCI](https://github.com/xuender/go-py/workflows/Go/badge.svg)](https://github.com/xuender/go-py/actions)
 [![codecov](https://codecov.io/gh/xuender/go-py/branch/main/graph/badge.svg?token=1QQNBH82CM)](https://codecov.io/gh/xuender/go-py)
-[![Go Report Card](https://goreportcard.com/badge/github.com/xuender/go-py)](https://goreportcard.com/report/github.com/xuender/go-py)
 [![GoDoc](https://godoc.org/github.com/xuender/go-py?status.svg)](https://pkg.go.dev/github.com/xuender/go-py)
-[![Gitter](https://badges.gitter.im/xuender-go-py/community.svg)](https://gitter.im/xuender-go-py/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![GitHub license](https://img.shields.io/github/license/xuender/go-py)](https://github.com/xuender/go-py/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/xuender/go-py)](https://github.com/xuender/go-py/issues)
 [![GitHub stars](https://img.shields.io/github/stars/xuender/go-py)](https://github.com/xuender/go-py/stargazers)
 
-中文转拼音.
+中文汉字转拼音，支持带音调/无音调/多音字/首字母等，具体见下面示例
 
 ## use
 
